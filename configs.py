@@ -76,4 +76,4 @@ Li𝗻𝗸𝘀 𝗢𝗽𝗲𝗻 𝗔𝗶𝘀𝗲 𝗞𝗮𝗿𝗲👇🔥
 
 https://t.me/Backupcinema/584
 
-    ABOUT_HELP_TEXT = """Help"""
+    ABOUT_HELP_TEXT = ""Help""
