@@ -6,7 +6,7 @@ import os
 
 class Config(object):
     API_ID = int(os.getenv("API_ID", "18736577"))
-    API_HASH = os.getenv("API_HASH", "931978ac639c5cdbdaae2582262eb35a)
+    API_HASH = os.getenv("API_HASH", "931978ac639c5cdbdaae2582262eb35a")
     BOT_TOKEN = os.getenv("BOT_TOKEN", "5819067756:AAFnLxHz7IcV6RiwuWZdiqcrGv8016p3Exc")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "MovieSearchBOT")
     USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "BQAJwpqHbhBoFVY3mAJXqVc4kZ4hfCHDbo4kR9BM92xSsS3LOvEjTvwOqbZ3ruUaAXWw9xMWd44eY5-zdiw4eESACy7HvwShJVhv0MBCd1xiUfuRcxbymadMWhqbsHBYRfTTZ0apFhSvbmfKRwSkwIGf82P_-fUEw2rXzfXkTwcWUDhtz23o0LS4837if2m1aSu5XjCzVHYtZl3_7-OWljmWwARPbDGvqt_F0pBRTuWdWsovM8vftdjgRfTCFXO6SDUVdn05JJvUkQWEwq5D5gOPwEoJmClrXV8UfwOvB5Y4ZjdvWAnGwKH0d61HrsJ9ITDLO4hbTIOPaxsyPj5wPYsfbkIfogA")
@@ -32,7 +32,7 @@ Jᴜsᴛ Tʏᴘᴇ ᴀ Mᴏᴠɪᴇ Nᴀᴍᴇ 🎬**""" )
     UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", "-1001566179526")
     DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://Vishaljindal:Vishal2006@cluster0.la2dbsy.mongodb.net/?retryWrites=true&w=majority")
     RESULTS_COUNT = int(os.getenv("RESULTS_COUNT", 20))
-    LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1001820651198)
+    LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1001820651198")
     BROADCAST_AS_COPY = os.getenv("BROADCAST_AS_COPY", "True")
     UPDATES_CHANNEL_USERNAME = os.getenv("UPDATES_CHANNEL_USERNAME", "cynitebackup")
     FORCE_SUB = os.getenv("FORCE_SUB", "True")
